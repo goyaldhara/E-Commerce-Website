@@ -16,7 +16,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [Support](#support)
 
 ## Try it out
-[Live demo NAMO](ecom-414ba.web.app)
+[Live demo NAMO](https://ecom-414ba.web.app/)
 
 ## Tech-Stack
 - ReactJS
